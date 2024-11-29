@@ -1,0 +1,61 @@
+.first-head{
+    font-size: 50px;
+    line-height:90px;
+    font-weight: bolder;
+    color: white;
+}
+.p-nav{
+    color: white;
+}
+
+.second-head{
+    font-size: 40px;
+    color: orange;
+}
+.nav-link{
+    color: orange !important;
+}
+.nav-link:hover{
+    color: white !important;
+}
+#ind1,#ind2,#ind3{
+    height: 5px;
+    background-color: orange;
+}
+.card-title{
+    font-size: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /* font-weight: 600; */font-weight: bold;
+}
+.card{
+    text-align: center;
+    border-radius: 2px;
+}
+.card:hover{
+    color: white;
+    background-color: orange;
+}
+#inds1,#inds2,#inds3{
+    display: none;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+height: 40px !important;
+width: 40px !important;
+padding: 10px !important;
+background-color: orange;
+margin-left: -300px !important;
+}
+
+.carousel-control-next-icon {
+    height: 40px !important;
+    width: 40px !important;
+    padding: 10px !important;
+    background-color: orange;
+    margin-right: -600px !important;
+    }
+form{
+    border: 2px solid white;
+    padding: 20px;
+}    
